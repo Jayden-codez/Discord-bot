@@ -21,4 +21,4 @@ async def on_ready():
 async def active_command(interaction: discord.Interaction):
     await interaction.response.send_message("I'm online.")
 
-client.run(TOKEN)
+client.run(MTMzNDE1NjQ5NTYyMDkzMTY1NA.G4OlKO.axMFKQmkZ1Y29ITBKUCiLDrtAR6FABCi47VL1g)
